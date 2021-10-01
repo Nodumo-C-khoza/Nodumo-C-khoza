@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nodumo-C-khoza
-- 👀 I’m interested in C# 
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on C# & Angular projects
+- 👀 I’m interested in C# & Asp.net
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on C# & React projects
 
 <!---
 Nodumo-C-khoza/Nodumo-C-khoza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
